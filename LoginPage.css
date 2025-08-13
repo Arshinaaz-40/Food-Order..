@@ -1,0 +1,32 @@
+body{
+    background-image: url(fbi.jpg);
+}
+form{
+    border: solid 3px whitesmoke;
+    width: 400px;
+    margin-left: 400px;
+    margin-top: 80px;
+    padding-left: 10px;
+}
+h1{
+    color: aqua;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+    color: aquamarine;
+}
+input{
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom-style: solid;
+    border-radius: 0%;
+    border-bottom-width: 3px;
+    border-bottom-color: rgb(229, 253, 245);
+}
+p{
+    font-size: 23px;
+    font-weight: bold;
+    color: aquamarine;
+}
